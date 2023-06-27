@@ -27,10 +27,9 @@
       <li class="list-group-item">Item 2</li>
       <li class="list-group-item">Item 3</li>
       <li class="list-group-item">Item 4</li>
-    
     </ul>
    </div>
   </div>
-   <script src="S1dom.js"></script>
+    <script src="S1dom.js"></script>
 </body>
 </html>
